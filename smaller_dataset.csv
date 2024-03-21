@@ -1,0 +1,11 @@
+employee_id,gender,race,hire_year
+employee_1,Male,White,1970
+employee_2,Male,Black,1956
+employee_3,Male,Black,1951
+employee_4,Female,White,1957
+employee_5,Female,Black,1970
+employee_6,Female,White,1953
+employee_7,Female,Black,1964
+employee_8,Male,White,1957
+employee_9,Female,Other,1967
+employee_10,Male,Other,1952
